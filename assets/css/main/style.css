@@ -167,7 +167,7 @@ body {
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #fff;
+  color: #4A4A4A;
   position: relative;
   background: transparent;
 }
@@ -190,11 +190,11 @@ body::before {
 }
 
 a {
-  color: #12d640;
+  color: #4A4A4A;
 }
 
 a:hover {
-  color: #12d640;
+  color: #4A4A4A;
   text-decoration: none;
 }
 
