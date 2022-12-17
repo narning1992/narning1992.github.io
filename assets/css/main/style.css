@@ -177,6 +177,7 @@ body::before {
   position: fixed;
   background: #f2f2f2;
   background-size: cover;
+  background-image:url("https://github.com/narning1992/narning1992.github.io/blob/main/background.png")
   left: 0;
   right: 0;
   top: 0;
