@@ -190,11 +190,11 @@ body::before {
 }
 
 a {
-  color: #4A4A4A;
+  color: #F2F2F2;
 }
 
 a:hover {
-  color: #4A4A4A;
+  color: #F2F2F2;
   text-decoration: none;
 }
 
