@@ -518,7 +518,7 @@ section .container {
   margin: 0 0 20px 0;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: #dee2e6;
+  color: #4A4A4A;
   font-family: "Poppins", sans-serif;
 }
 
@@ -538,7 +538,7 @@ section .container {
   font-weight: 700;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #fff;
+  color: #4A4A4A;
 }
 
 /*--------------------------------------------------------------
