@@ -292,6 +292,12 @@ h1, h2, h3, h4, h5, h6 {
     align-items: center;
   }
 }
+.fix{
+    position:fixed;
+    bottom:0px;
+    left:50%;
+  }
+ <img src="https://github.com/narning1992/narning1992.github.io/blob/main/background.png" class="fix"/>  
 
 /*--------------------------------------------------------------
 # Navigation Menu
