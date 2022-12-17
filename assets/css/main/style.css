@@ -6,10 +6,11 @@ html, body {
 :root {
   --primary: #8257E5;
   --primary-hover: #ab89fa;
-  --background: #121214;
+  --background: #f2f2f2;
+  --background-image:url("https://github.com/narning1992/narning1992.github.io/blob/main/background.png");
   --box-background: #3E3B47;
   --text-color: #F4EDE8;
-  --green: #04D361;
+  --green: #3390FF;
 }
 
 ::-webkit-scrollbar {
