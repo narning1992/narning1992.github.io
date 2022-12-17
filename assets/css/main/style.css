@@ -373,7 +373,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav-toggle i {
-  color: #fff;
+  color: #3380FF;
 }
 
 .mobile-nav {
@@ -409,7 +409,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
-  color: #1c7d32;
+  color: #4A4A4A;
   text-decoration: none;
 }
 
@@ -436,7 +436,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav-active .mobile-nav-toggle i {
-  color: #fff;
+  color: #4A4A4A;
 }
 
 /* Header Top */
@@ -446,7 +446,7 @@ h1, h2, h3, h4, h5, h6 {
   left: 0;
   top: 0;
   right: 0;
-  background: #09203a;
+  background: #F2F2F2;
 }
 
 #header.header-top .social-links, #header.header-top h2 {
