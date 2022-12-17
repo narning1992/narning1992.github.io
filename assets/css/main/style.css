@@ -279,10 +279,12 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (max-width: 992px) {
   #header h1 {
+    color:#4A4A4A; 
     font-size: 36px;
   }
   #header h2 {
     font-size: 20px;
+    color:#4A4A4A; 
     line-height: 30px;
   }
   #header .social-links {
@@ -324,7 +326,7 @@ h1, h2, h3, h4, h5, h6 {
 .nav-menu a {
   display: block;
   position: relative;
-  color: #fff;
+  color:#4A4A4A; 
   font-size: 19px;
   font-family: "Poppins", sans-serif;
   font-weight: 400;
@@ -337,7 +339,8 @@ h1, h2, h3, h4, h5, h6 {
   height: 2px;
   bottom: -4px;
   left: 0;
-  background-color: #9e7f25;
+  color: #fff;
+  background-color: #F2F2F2;
   visibility: hidden;
   width: 0px;
   transition: all 0.3s ease-in-out 0s;
@@ -349,7 +352,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #12d640;
+  color: #3380FF;
   text-decoration: none;
 }
 
