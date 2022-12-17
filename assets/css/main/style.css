@@ -302,8 +302,8 @@ h1, h2, h3, h4, h5, h6 {
     position:fixed;
     bottom:0px;
     left:30%;
-    max-width:70%;
-    max-height:70%;
+    max-width:60%;
+    max-height:60%;
   }
 
 /*--------------------------------------------------------------
@@ -341,7 +341,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 2px;
   bottom: -4px;
   left: 0;
-  color: #fff;
+  color: #4A4A4A;
   background-color: #F2F2F2;
   visibility: hidden;
   width: 0px;
@@ -404,7 +404,7 @@ h1, h2, h3, h4, h5, h6 {
 .mobile-nav a {
   display: block;
   position: relative;
-  color: #fff;
+  color: #3380FF;
   padding: 10px 20px;
   font-weight: 500;
   outline: none;
