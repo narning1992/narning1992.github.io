@@ -301,7 +301,7 @@ h1, h2, h3, h4, h5, h6 {
 .fix{
     position:fixed;
     bottom:0px;
-    left:30%;
+    left:40%;
     max-width:60%;
     max-height:60%;
   }
@@ -530,6 +530,7 @@ section .container {
   height: 1px;
   display: inline-block;
   background: #dee2e6;
+  color: #4A4A4A;
   margin: 4px 10px;
 }
 
