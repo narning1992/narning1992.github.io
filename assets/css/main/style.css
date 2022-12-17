@@ -247,7 +247,7 @@ h1, h2, h3, h4, h5, h6 {
 #header h2 span {
   color: #ffc107;
   color:#4A4A4A; 
-  border-bottom: 2px solid #4A4A4A;
+  border-bottom: 2px solid #F2F2F2;
   padding-bottom: 6px;
 }
 
@@ -276,7 +276,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .social-links a:hover {
-  background: #1c7d32;
+  background: #3380FF;
 }
 
 @media (max-width: 992px) {
