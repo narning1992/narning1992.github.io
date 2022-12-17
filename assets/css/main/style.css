@@ -4,12 +4,12 @@ html, body {
 }
 
 :root {
-  --primary: #8257E5;
+  --primary: #3380FF;
   --primary-hover: #ab89fa;
-  --background: #121214;
-  --box-background: #3E3B47;
+  --background: #f2f2f2;
+  --box-background: #f2f2f2;
   --text-color: #F4EDE8;
-  --green: #04D361;
+  --green: #3390FF;
 }
 
 ::-webkit-scrollbar {
