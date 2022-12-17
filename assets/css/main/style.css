@@ -175,7 +175,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #f2f2f2;
+  background: #F2F2F2;
   background-size: cover;
   left: 0;
   right: 0;
