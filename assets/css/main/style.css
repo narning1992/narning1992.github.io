@@ -1067,7 +1067,7 @@ section .container {
   color: #444444;
   padding: 20px;
   width: 100%;
-  background: #09203a;
+  background: #3390FF;
 }
 
 .contact .info-box i.bx {
@@ -1076,12 +1076,12 @@ section .container {
   border-radius: 50%;
   padding: 14px;
   float: left;
-  background: rgba(255, 255, 255, 0.1);
+  background: #3390FF;
 }
 
 .contact .info-box h3 {
   font-size: 20px;
-  color: #28a745;
+  color: #4A4A4A;
   font-weight: 700;
   margin: 10px 0 8px 68px;
 }
@@ -1109,7 +1109,7 @@ section .container {
 }
 
 .contact .info-box .social-links a:hover {
-  color: #12d640;
+  color: #7a7a7a;
 }
 
 .contact .php-email-form {
