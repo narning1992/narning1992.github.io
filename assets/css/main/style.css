@@ -4,7 +4,7 @@ html, body {
 
 :root {
   --primary: #3380FF;
-  --primary-hover: #ab89fa;
+  --primary-hover: #3390FF;
   --background: #f2f2f2;
   --box-background: #f2f2f2;
   --text-color: #4A4A4A;
@@ -885,8 +885,9 @@ section .container {
 }
 
 .services .icon-box:hover {
-  background: #000000;
+  background: #CFCFCF;
   border-color: #3380FF;
+  text-color: #4A4A4A
 }
 
 .services .icon-box:hover .icon {
