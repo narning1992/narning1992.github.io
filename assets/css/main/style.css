@@ -190,15 +190,13 @@ body::before {
 }
 
 a {
-  color:#4A4A4A
-  text-color:#4A4A4A;
+  color:#4A4A4A;
   text-decoration: none;
   font-weight:bold;
   style: "font-weight:bold";
 }
 
 a:hover {
-  text-color:#4A4A4A;
   color: #4A4A4A;
   text-decoration: none;
 }
@@ -660,7 +658,7 @@ section .container {
   display: flex;
   align-items: center;
   padding: 20px;
-  background: #4A4A4A;
+  background: #8E8E8E;
   transition: ease-in-out 0.3s;
 }
 
