@@ -885,7 +885,7 @@ section .container {
 }
 
 .services .icon-box:hover {
-  background: #042e5f;
+  background: #000000;
   border-color: #3380FF;
 }
 
@@ -898,7 +898,7 @@ section .container {
 }
 
 .services .icon-box:hover .icon::before {
-  background: #35e888;
+  background: #fff;
 }
 
 .services .icon-box:hover h4 a, .services .icon-box:hover p {
