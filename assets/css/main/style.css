@@ -190,6 +190,7 @@ body::before {
 }
 
 a {
+  color:#4A4A4A
   text-decoration: none;
   font-weight:bold;
   style: "font-weight:bold";
@@ -1070,7 +1071,7 @@ section .container {
   color: #444444;
   padding: 20px;
   width: 100%;
-  background: #CFCFCF;
+  background: #8E8E8E;
 }
 
 .contact .info-box i.bx {
@@ -1084,7 +1085,7 @@ section .container {
 
 .contact .info-box h3 {
   font-size: 20px;
-  color: #3390FF;
+  color: #4A4A4A;
   font-weight: 700;
   margin: 10px 0 8px 68px;
 }
