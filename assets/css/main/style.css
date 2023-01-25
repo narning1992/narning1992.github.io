@@ -192,7 +192,8 @@ body::before {
 a {
   color: #000000;
   text-decoration: none;
-  style: "font-weight:bold"
+  font-weight: "bold";
+  style: "font-weight:bold";
 }
 
 a:hover {
