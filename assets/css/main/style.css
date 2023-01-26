@@ -4,11 +4,11 @@ html, body {
 
 :root {
   --primary: #3380FF;
-  --primary-hover: #3390FF;
+  --primary-hover: #4A4A4A;
   --background: #f2f2f2;
   --box-background: #f2f2f2;
   --text-color: #4A4A4A;
-  --green: #3390FF;
+  --green: #BBBBBB;
 }
 
 ::-webkit-scrollbar {
@@ -197,7 +197,7 @@ a {
 }
 
 a:hover {
-  color: #4A4A4A;
+  color: #000000;
   text-decoration: none;
 }
 
@@ -679,7 +679,7 @@ section .container {
 }
 
 .interests .icon-box:hover {
-  background: #042b56eb;
+  background: #3380FF;
 }
 
 /*--------------------------------------------------------------
@@ -831,7 +831,7 @@ section .container {
 --------------------------------------------------------------*/
 .services .icon-box {
   text-align: center;
-  background: #8E8E8E;
+  background: #CBCBCB;
   padding: 40px 40px;
   transition: all ease-in-out 0.3s;
   margin: 10px
@@ -886,9 +886,10 @@ section .container {
 }
 
 .services .icon-box:hover {
-  background: #CFCFCF;
-  border-color: #3380FF;
-  text-color: #4A4A4A
+  background: #BBBBBB;
+  border-color: #00000;
+  text-color: #4A4A4A;
+  color: #4A4A4A;
 }
 
 .services .icon-box:hover .icon {
