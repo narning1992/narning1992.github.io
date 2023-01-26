@@ -484,6 +484,15 @@ h1, h2, h3, h4, h5, h6 {
 /*--------------------------------------------------------------
 # Sections General
 --------------------------------------------------------------*/
+
+.mydiv{
+    position:relative
+}
+.mydiv img{
+    position:absolute;
+    top:0;
+    left:0;
+}
 section {
   overflow: hidden;
   position: absolute;
@@ -905,7 +914,7 @@ section .container {
 }
 
 .services .icon-box:hover h4 a, .services .icon-box:hover p {
-  color: #3380FF;
+  color: #000000;
 }
 
 /*--------------------------------------------------------------
